@@ -9,7 +9,6 @@ body {
     height: 100vh;
 }
 
-/* Estilo para o container */
 .container {
     background-color: #fff;
     padding: 20px;
@@ -19,14 +18,12 @@ body {
     text-align: center;
 }
 
-/* Título */
 h1 {
     font-size: 24px;
     color: #333;
     margin-bottom: 20px;
 }
 
-/* Estilo para o input */
 #taskInput {
     width: 80%;
     padding: 10px;
@@ -36,7 +33,6 @@ h1 {
     font-size: 16px;
 }
 
-/* Estilo para o botão */
 button {
     padding: 10px 15px;
     font-size: 16px;
@@ -48,14 +44,12 @@ button {
     margin-top: 20px;
 }
 
-/* Estilo para a lista de tarefas */
 ul {
     list-style-type: none;
     padding: 0;
     margin-top: 20px;
 }
 
-/* Estilo para os itens da lista */
 li {
     background-color: #f9f9f9;
     padding: 10px;
@@ -67,7 +61,6 @@ li {
     align-items: center;
 }
 
-/* Estilo para o botão de remover */
 button.remove-btn {
     background-color: #dc3545;
     border: none;
